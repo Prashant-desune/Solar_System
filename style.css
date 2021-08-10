@@ -3,7 +3,7 @@
 
 body{
 font: 14px/1.5 "PT Sans Narrow", sans-serif;
-background-image: #080e24 url(http://neography.com/experiment/circles/solarsystem/bg.jpg) repeat;
+background-image: #080e24 url(https://raw.githubusercontent.com/Prashant-desune/Solar_System/main/bluebg.jpg) repeat;
 color: #626668;
 }
 
@@ -163,7 +163,7 @@ ul.solarsystem li.asteroids_meteorids {
 top: 155px;
 left: 315px;
 z-index: 1;
-background: url(http://neography.com/experiment/circles/solarsystem/asteroids_meteorids.png) no-repeat 0 0;
+background: url(./asteroids_meteorids.png) no-repeat 0 0;
 width: 330px;
 height: 330px;
 -webkit-border-radius: 165px;
